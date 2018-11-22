@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/springbootmybatis?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: 133691
+    driver-class-name: com.mysql.jdbc.Driver
